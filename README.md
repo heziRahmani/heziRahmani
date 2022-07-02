@@ -22,7 +22,7 @@ I am a Front-End oriented Full-Stack Developer <img src="https://media.giphy.com
 
 - 👋 Hi, I’m @heziRahmani
 - 👀 I’m interested in a full-stack or a front-end rolles
-- :zap: In my free time, I practice coding and read tech articles.
+- :zap: weni'm not practicing coding or read tech articles, i love to play.  and when i need a break I love playing video games and listening to music
 - :mailbox:How to reach me:  <a href="https: linkedin.com/in/hezi-rahmani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
