@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-   <a href="https:// linkedin.com/in/hezi-rahmani">
+   <a href="https://linkedin.com/in/hezi-rahmani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>
@@ -23,7 +23,7 @@ I am a Front-End oriented Full-Stack Developer <img src="https://media.giphy.com
 - 👋 Hi, I’m @heziRahmani
 - 👀 I’m interested in a full-stack or a front-end rolles
 - :zap: In my free time, I practice coding and read tech articles.
-- :mailbox:How to reach me:  <a href="[https: linkedin.com/in/hezi-rahmani](https:// linkedin.com/in/hezi-rahmani)">
+- :mailbox:How to reach me:  <a href="https://linkedin.com/in/hezi-rahmani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
